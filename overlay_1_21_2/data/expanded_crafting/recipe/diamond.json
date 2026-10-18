@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GIG",
+    "III",
+    "GIG"
+  ],
+  "key": {
+    "G": "minecraft:gold_block",
+    "I": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

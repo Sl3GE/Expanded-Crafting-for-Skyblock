@@ -1,6 +1,6 @@
 # Recipe options
 
-Nothing in this file is in the datapack yet. The pack is empty until these are approved.
+These four recipes are in the datapack. This file is the reference for their shapes.
 
 **Target:** Minecraft Java Edition 1.20 through 26.3 (datapack formats 15 through 121.0). Versions before 1.20 are out. All four recipes exist in 1.20, so none of them need to be dropped on the older end of that range. The recipe files still have to be duplicated for the format breaks inside the range: the `recipes` folder and `item` result through 1.20.4, the `id` result from 1.20.5, and the `recipe` folder from 1.21.
 

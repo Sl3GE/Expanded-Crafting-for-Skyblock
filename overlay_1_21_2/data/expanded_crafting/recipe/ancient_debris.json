@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "GDG",
+    "GGG"
+  ],
+  "key": {
+    "G": "minecraft:gold_block",
+    "D": "minecraft:diamond_block"
+  },
+  "result": {
+    "id": "minecraft:ancient_debris",
+    "count": 1
+  }
+}
