@@ -7,10 +7,7 @@
       "max_inclusive": 121
     },
     "min_format": 15,
-    "max_format": [
-      121,
-      0
-    ]
+    "max_format": [121, 0]
   },
   "overlays": {
     "entries": [
@@ -19,6 +16,8 @@
           "min_inclusive": 41,
           "max_inclusive": 47
         },
+        "min_format": 41,
+        "max_format": 47,
         "directory": "overlay_1_20_5"
       },
       {
@@ -26,6 +25,8 @@
           "min_inclusive": 48,
           "max_inclusive": 56
         },
+        "min_format": 48,
+        "max_format": 56,
         "directory": "overlay_1_21"
       },
       {
@@ -33,6 +34,8 @@
           "min_inclusive": 57,
           "max_inclusive": 121
         },
+        "min_format": 57,
+        "max_format": [121, 0],
         "directory": "overlay_1_21_2"
       }
     ]
