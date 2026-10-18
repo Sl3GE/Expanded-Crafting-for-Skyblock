@@ -1,7 +1,9 @@
 {
   "pack": {
     "description": "Expanded Crafting (for Skyblock)",
-    "min_format": [121, 0],
+    "pack_format": 15,
+    "supported_formats": [15, 121],
+    "min_format": 15,
     "max_format": [121, 0]
   }
 }
