@@ -56,3 +56,7 @@ Disable the pack. The id matches the zip name:
 ```
 /datapack disable "file/expanded-crafting-for-skyblock-1.0.0"
 ```
+
+## License
+
+[MIT](LICENSE).
