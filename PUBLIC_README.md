@@ -15,6 +15,8 @@ Craft the recipes below in a crafting table. They are added to your recipe book 
 
 Once you have crafted one netherite upgrade smithing template, further copies use the vanilla recipe: 7 diamonds, 1 netherrack, and that template.
 
+**End portal frames only work when they face the center.** Place 3 frames on each side of an empty 3×3, and leave the corners empty. Stand in that center and look outward while you place each frame. The front of a frame faces you when you place it, so the north side faces south, the east side faces west, the south side faces north, and the west side faces east. The facing is hard to see, and a frame placed while you are looking the wrong way will not count. The crafted block does not come with an eye already in it, so use an Eye of Ender on each placed frame.
+
 ## Recipes
 
 | Result | Ingredients |

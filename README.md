@@ -46,6 +46,15 @@ C = crying obsidian     N = nether brick
 Nether brick is the item, not the Nether Bricks block. Twelve end portal
 frames open a portal: 24 eyes of ender, 36 obsidian, and 36 crying obsidian.
 
+End portal frames have to face the center or the portal will not activate.
+Build a ring of 3 frames on each side of an empty 3×3, with the corners left
+empty. Stand in that center and look outward as you place each frame. The
+front of a frame faces you when you place it, so the three on the north side
+face south, the east side faces west, the south side faces north, and the
+west side faces east. The facing is hard to see, and a frame placed while
+looking the wrong way will not count. The crafted block is empty, so put an
+eye of ender into each placed frame after that.
+
 ## Development
 
 The pack root is the 1.20 through 1.20.4 copy (`data/expanded_crafting/recipes/`,
@@ -61,8 +70,7 @@ result field `item`). Newer versions load a replacement copy from an overlay:
 `data/expanded_crafting/function/` is the 1.21 folder. Both grant the four
 recipes to each player once.
 
-`RECIPE_OPTIONS.md` is the recipe reference. After editing a recipe, update
-every copy, then rebuild the zip from the pack root:
+After editing a recipe, update every copy, then rebuild the zip from the pack root:
 
 ```
 zip -r -X dist/expanded-crafting-for-skyblock-1.0.0.zip pack.mcmeta data overlay_1_20_5 overlay_1_21 overlay_1_21_2
